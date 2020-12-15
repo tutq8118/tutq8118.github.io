@@ -1,0 +1,6 @@
+original files/
+psd/
+**/*/package-lock.json
+**/*/debug.log
+.svn/
+node_modules/
